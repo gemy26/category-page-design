@@ -7,7 +7,7 @@ let code=`
          <div class="text">
              <p class="category">${category}</p>
             
-             < a href="main.html"> <p class="name">${brand}</p></a>
+             < a href="google.com"> <p class="name">${brand}</p></a>
              <h5 class="rate">${rate}</h5>
              <p class="price">${price}</p>
              <p class="sale">${offer}</p>
