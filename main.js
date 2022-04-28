@@ -6,7 +6,8 @@ let code=`
          <img src="${img}" alt="${product}">
          <div class="text">
              <p class="category">${category}</p>
-             <p class="name">${brand}</p>
+            
+             < a href="main.html"> <p class="name">${brand}</p></a>
              <h5 class="rate">${rate}</h5>
              <p class="price">${price}</p>
              <p class="sale">${offer}</p>
